@@ -35,4 +35,4 @@ ODM_MANIFEST_GALAHAD_FILES := $(DEVICE_PATH)/manifest_galahad.xml
 
 # Properties
 TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
-
+TARGET_PRODUCT_PROP += $(DEVICE_PATH)/product.prop
