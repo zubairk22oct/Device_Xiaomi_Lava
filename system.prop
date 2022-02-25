@@ -1,0 +1,4 @@
+# Octavi
+ro.octavi.maintainer=Zubair Khan
+ro.octavi.hw.cam=13Mp,8Mp,5Mp,2Mp:8Mp
+ro.octavi.hw.cpu=Helio G80 (12nm)
